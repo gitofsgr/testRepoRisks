@@ -1,1 +1,4 @@
-kklJSecrets:"SSKkkOP878L";
+spring:
+  datasource:
+    username: admin
+    password: admin123
